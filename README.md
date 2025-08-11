@@ -21,9 +21,9 @@ Questi progetti rappresentano esempi concreti di lavoro di squadra, gestione del
 
 ## Progetti Personali/EPICODE
 
+- [Clone Linkedin](https://github.com/patricksgro/BW4_LinkedinClone_React) - Riproduzione di Linkedin (HTML5, CSS3, BOOTSTRAP, REACT-BOOTSTRAP, JAVASCRIPT, REACT)
 - [Libreria Digitale React](https://github.com/patricksgro/project_25_Libray_React) - Creazione libreia digitale con React
 - [WebSite E-commerce](https://github.com/patricksgro/project_24_e-commerceWebSite) - Creazione sito web e-commerce con varie funzionalità
-- [NetFlix](https://github.com/patricksgro/project_18_WebSite_Netflix) - Riproduzione di NetFlix (HTML, CSS)
 
 ---
 
